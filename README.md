@@ -3,11 +3,12 @@
 ### Objective
 
 Plans are to build and test new ideas, features or whatever else in Hugo.
+---
 
 ## Templates
 
 ### Single Page
----
+
 #### Tabs
   - Build a standard page with tabs and posts that add the desired info
     - Desired Info
